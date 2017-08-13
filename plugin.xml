@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Backend Clock</label>
+    <label lang="en">Backend Clock</label>
+
+    <version>1.0.0</version>
+    <link>http://tibio.enterprises</link>
+    <author>ONE</author>
+    <compatibility minVersion="5.2.0" />
+    <copyright>(c) codexx420 - codexx42ß@protonmail.com</copyright>
+    <author>codexx420</author>
+    <changelog version="1.0.0">
+        <changes lang="de">Initial release</changes>
+        <changes lang="en">Initial release</changes>
+    </changelog>
+</plugin>
